@@ -1,9 +1,12 @@
 # Multi-app-project
+
 An android application that was developed using Java in the android studio ide. The purpose of the application is to make multi app project with common
 you enter the amount watter or num of push ups and submit(save) the app shows a graph of your entering data 
 
 Features in the app:
+
 1- using graphs.
+
 2- Using share preference
 
 
